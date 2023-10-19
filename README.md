@@ -6,7 +6,7 @@
 
 - 🔍 I'm deeply interested in Linux, Odoo, Django, and Keycloak. These technologies drive my curiosity and creativity.
 
-- 🌱 I consider myself a Linux Expert and proudly hold the Red Hat Certified System Administrator (RHCSA) certification. 
+- 🌱 I consider myself a Linux Lover and proudly hold the Red Hat Certified System Administrator (RHCSA) certification. 
 
 - 💼 I am the proud owner of the SAAS SAGA project, a fascinating journey into the realm of Software as a Service (SaaS).
 
