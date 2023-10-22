@@ -16,7 +16,7 @@
 
 Here are some of the cool projects I've been working on or have contributed to:
 
-- [**SAAS SAGA**](fripeop.site): My flagship project, a remarkable Odoo SaaS platform that aims to redefine how businesses operate in the cloud.
+- [**HYPER SAAS**](https://fripeop.site): My flagship project, a remarkable Odoo SaaS platform that aims to redefine how businesses operate in the cloud.
 
 - [**LB Workshop**](https://lb-workshop.net/): LB-Workshop.net is an empowering online platform designed to enable individuals with physical challenges to showcase and sell their unique art pieces, fostering creativity and inclusivity within the art community.
 
