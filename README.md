@@ -2,21 +2,21 @@
 
 ## About Me
 
-👨‍💻 Hi, I'm Ahmed Smaali, a passionate developer and Linux enthusiast. I love diving into the world of open-source technologies and software. Here are some things you might want to know about me:
+👨‍💻 Hi, I'm Ahmed Smaali, a passionate developer and Linux enthusiast. I love diving into the world of open-source technologies. Here are some things you might want to know about me:
 
-- 🔍 I'm deeply interested in Linux, Odoo, Django, and Keycloak. These technologies drive my curiosity and creativity.
+- 🔍 I'm deeply interested in Linux, Odoo, Django, Keycloak, Docker, Kubernetes, Ansible.
 
-- 🌱 I consider myself a Linux Lover and proudly hold the Red Hat Certified System Administrator (RHCSA) certification. 
+- 🌱 I consider myself a Linux Lover.
 
-- 💼 I am the proud owner of the SAAS SAGA project, a fascinating journey into the realm of Software as a Service (SaaS).
-
-- 💼 I'm also a Level 2 freelancer on Fiverr, providing top-notch services to clients worldwide, with over 50 reviews.
+- 💼 I am the proud owner of Hyper Odoo SAAS project.
+  
+- 💼 I'm also a Level 2 freelancer on Fiverr, providing top-notch services to clients worldwide, with over 100 orders.
 
 ## Projects
 
 Here are some of the cool projects I've been working on or have contributed to:
 
-- [**HYPER SAAS**](https://fripeop.site): My flagship project, a remarkable Odoo SaaS platform that aims to redefine how businesses operate in the cloud.
+- [**HYPER SAAS**](https://mainlayersolutions.com): My flagship project, a remarkable Odoo SaaS platform that aims to redefine how businesses operate in the cloud.
 
 - [**LB Workshop**](https://lb-workshop.net/): LB-Workshop.net is an empowering online platform designed to enable individuals with physical challenges to showcase and sell their unique art pieces, fostering creativity and inclusivity within the art community.
 
